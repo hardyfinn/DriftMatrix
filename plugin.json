@@ -1,0 +1,23 @@
+{
+  "slug": "DriftMatrix",
+  "name": "DriftMatrix",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "Haer",
+  "author": "Haer",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/hardyfinn/DriftMatrix",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "DriftMatrix",
+      "name": "DriftMatrix",
+      "description": "32 x 32 matrix mixer with a hidden, random matrix: chance of each crosspoint, on/off or 0-100 % levels, reseed with a Radical amount, slew, and 8 snapshots with A/B mixing (smooth or coin flip)",
+      "tags": ["Mixer", "Random", "Utility"]
+    }
+  ]
+}

@@ -35,3 +35,7 @@ matrix, clear all snapshots.
 Every push builds a Mac (Apple Silicon) plugin on GitHub Actions; see the
 "latest" release. The panel is drawn by `python3 res/make_panel.py`, and
 `python3 tools/preview.py out.png` draws a picture with the controls in place.
+
+## Licence
+
+MIT (see `LICENSE.txt`): you're free to use, change, port (VST/CLAP, other platforms, hardware) and share this code, as long as the copyright notice and licence text come along. Fonts on the panel (Inter, Climate Crisis) are under the SIL Open Font Licence.
